@@ -1,0 +1,9 @@
+DON CLIMAS - Monitoreo meteorologico para transporte terrestre
+
+1) pip install -r requirements.txt
+2) python don_climas.py
+   Usuario: admin   Contrasena: 1234   (2 intentos fallidos cancelan el login)
+   API Key: la de openweathermap.org, o escribe "demo" para datos simulados.
+3) Cambia NOMBRE_ALUMNO en don_climas.py por tu nombre completo.
+4) Usabilidad: Ayuda > Evaluar usabilidad (SUS). Que lo contesten varias personas,
+   luego Ayuda > Generar PDF de usabilidad.
